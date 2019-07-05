@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{81B34AF4-D38D-EFFA-3F7D-EA99632806D1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/test.cs">
+    <Files>
+      <File FileName="Assets/Scripts/test.cs" Line="57" Column="34" />
+      <File FileName="Assets/Scripts/UnixDomainSocket.cs" Line="94" Column="19" />
+      <File FileName="Assets/Scripts/Program.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/Cameramove.cs" Line="6" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Navigation-demo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Enemy" expanded="True" />
+                <Node name="test.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Navigation-demo" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c7331ac0-3137-4f23-a258-d95177f0f969" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/guwei/Desktop/Navigation-demo/Assets/Scripts/test.cs" relfile="Assets/Scripts/test.cs" line="19" column="27" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
